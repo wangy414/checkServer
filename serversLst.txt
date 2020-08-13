@@ -1,0 +1,2 @@
+ip1 username password
+ip2 username password
